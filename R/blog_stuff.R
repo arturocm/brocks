@@ -222,7 +222,7 @@ blog_opts <- function(...){
 #' @export
 htmlwidgets_deps <- function(a, knit_meta = knitr::knit_meta(),
                              lib_dir      = "htmlwidgets_deps",
-                             includes_dir = "_includes/htmlwidgets/",
+                             includes_dir = "/_includes/htmlwidgets/",
                              always       = FALSE) {
 
   # If the directories don't exist, create them

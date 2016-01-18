@@ -2,8 +2,12 @@
 layout: post
 title:  "Sketelton Post"
 date: `r Sys.time()`
-published: true
-tags: [example1, example2]
+author: admin
+categories:
+- blog
+- R
+img: post01.jpg
+thumb: thumb01.jpg
 ---
 
 Your markdown here!

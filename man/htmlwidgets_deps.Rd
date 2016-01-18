@@ -5,7 +5,7 @@
 \title{Configure htmlwidgets dependencies for a knitr-jekyll blog}
 \usage{
 htmlwidgets_deps(a, knit_meta = knitr::knit_meta(),
-  lib_dir = "htmlwidgets_deps", includes_dir = "_includes/htmlwidgets/",
+  lib_dir = "htmlwidgets_deps", includes_dir = "/_includes/htmlwidgets/",
   always = FALSE)
 }
 \arguments{
